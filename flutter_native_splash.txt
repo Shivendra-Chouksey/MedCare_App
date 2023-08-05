@@ -1,0 +1,8 @@
+flutter_native_splash:    
+  image: "assets/images/med_care_logo.png"
+  
+
+
+  android_12:
+    image: "assets/images/med_care_logo.png"
+    background image: "assets/med_care_full_logo_new.png"
